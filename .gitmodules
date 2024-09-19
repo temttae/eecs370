@@ -1,0 +1,3 @@
+[submodule "p1"]
+	path = p1
+	url = git@github.com:temttae/eecs370-p1.git
