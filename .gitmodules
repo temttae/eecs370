@@ -7,3 +7,6 @@
 [submodule "p3"]
 	path = p3
 	url = git@github.com:temttae/eecs370-p3.git
+[submodule "p4"]
+	path = p4
+	url = git@github.com:temttae/eecs370-p4.git
